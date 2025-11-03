@@ -67,4 +67,8 @@ Output will be something like:
 ]
 ```
 
-If you get this then, Shazam!! It works!!!🤩
+You can also test it using `pytest -q`
+
+![Screenshot](Screenshot.png)
+
+If you get this then, Shazam!! It works!!!🤩 
